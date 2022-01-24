@@ -18,7 +18,7 @@ path {
   cursor: nw-resize;
   max-width: 70vmin;
   -webkit-animation: float 2s infinite;
-          animation: float 2s infinite;
+  animation: float 2s infinite;
   transition: top 1s, left 2s, opacity 0.3s;
 }
 .cupid.poofed {
@@ -39,7 +39,7 @@ path {
 }
 #cutie-face {
   -webkit-animation: nod 0.75s 3;
-          animation: nod 0.75s 3;
+  animation: nod 0.75s 3;
 }
 
 @-webkit-keyframes nod {
@@ -55,7 +55,7 @@ path {
 }
 #wink {
   -webkit-animation: wink 0.5s 3;
-          animation: wink 0.5s 3;
+  animation: wink 0.5s 3;
 }
 
 @-webkit-keyframes wink {
@@ -72,7 +72,7 @@ path {
 #wing-foreground,
 #wing-background {
   -webkit-animation: wiggle-wing 0.35s infinite;
-          animation: wiggle-wing 0.35s infinite;
+  animation: wiggle-wing 0.35s infinite;
   transform-origin: 50% 100%;
 }
 
@@ -92,163 +92,163 @@ path {
 }
 #sparkles path:nth-child(1) {
   -webkit-animation: bling-bling 0.5s 0.05s infinite;
-          animation: bling-bling 0.5s 0.05s infinite;
+  animation: bling-bling 0.5s 0.05s infinite;
 }
 #sparkles path:nth-child(2) {
   -webkit-animation: bling-bling 0.5s 0.1s infinite;
-          animation: bling-bling 0.5s 0.1s infinite;
+  animation: bling-bling 0.5s 0.1s infinite;
 }
 #sparkles path:nth-child(3) {
   -webkit-animation: bling-bling 0.5s 0.15s infinite;
-          animation: bling-bling 0.5s 0.15s infinite;
+  animation: bling-bling 0.5s 0.15s infinite;
 }
 #sparkles path:nth-child(4) {
   -webkit-animation: bling-bling 0.5s 0.2s infinite;
-          animation: bling-bling 0.5s 0.2s infinite;
+  animation: bling-bling 0.5s 0.2s infinite;
 }
 #sparkles path:nth-child(5) {
   -webkit-animation: bling-bling 0.5s 0.25s infinite;
-          animation: bling-bling 0.5s 0.25s infinite;
+  animation: bling-bling 0.5s 0.25s infinite;
 }
 #sparkles path:nth-child(6) {
   -webkit-animation: bling-bling 0.5s 0.3s infinite;
-          animation: bling-bling 0.5s 0.3s infinite;
+  animation: bling-bling 0.5s 0.3s infinite;
 }
 #sparkles path:nth-child(7) {
   -webkit-animation: bling-bling 0.5s 0.35s infinite;
-          animation: bling-bling 0.5s 0.35s infinite;
+  animation: bling-bling 0.5s 0.35s infinite;
 }
 #sparkles path:nth-child(8) {
   -webkit-animation: bling-bling 0.5s 0.4s infinite;
-          animation: bling-bling 0.5s 0.4s infinite;
+  animation: bling-bling 0.5s 0.4s infinite;
 }
 #sparkles path:nth-child(9) {
   -webkit-animation: bling-bling 0.5s 0.45s infinite;
-          animation: bling-bling 0.5s 0.45s infinite;
+  animation: bling-bling 0.5s 0.45s infinite;
 }
 #sparkles path:nth-child(10) {
   -webkit-animation: bling-bling 0.5s 0.5s infinite;
-          animation: bling-bling 0.5s 0.5s infinite;
+  animation: bling-bling 0.5s 0.5s infinite;
 }
 #sparkles path:nth-child(11) {
   -webkit-animation: bling-bling 0.5s 0.55s infinite;
-          animation: bling-bling 0.5s 0.55s infinite;
+  animation: bling-bling 0.5s 0.55s infinite;
 }
 #sparkles path:nth-child(12) {
   -webkit-animation: bling-bling 0.5s 0.6s infinite;
-          animation: bling-bling 0.5s 0.6s infinite;
+  animation: bling-bling 0.5s 0.6s infinite;
 }
 #sparkles path:nth-child(13) {
   -webkit-animation: bling-bling 0.5s 0.65s infinite;
-          animation: bling-bling 0.5s 0.65s infinite;
+  animation: bling-bling 0.5s 0.65s infinite;
 }
 #sparkles path:nth-child(14) {
   -webkit-animation: bling-bling 0.5s 0.7s infinite;
-          animation: bling-bling 0.5s 0.7s infinite;
+  animation: bling-bling 0.5s 0.7s infinite;
 }
 #sparkles path:nth-child(15) {
   -webkit-animation: bling-bling 0.5s 0.75s infinite;
-          animation: bling-bling 0.5s 0.75s infinite;
+  animation: bling-bling 0.5s 0.75s infinite;
 }
 #sparkles path:nth-child(16) {
   -webkit-animation: bling-bling 0.5s 0.8s infinite;
-          animation: bling-bling 0.5s 0.8s infinite;
+  animation: bling-bling 0.5s 0.8s infinite;
 }
 #sparkles path:nth-child(17) {
   -webkit-animation: bling-bling 0.5s 0.85s infinite;
-          animation: bling-bling 0.5s 0.85s infinite;
+  animation: bling-bling 0.5s 0.85s infinite;
 }
 #sparkles path:nth-child(18) {
   -webkit-animation: bling-bling 0.5s 0.9s infinite;
-          animation: bling-bling 0.5s 0.9s infinite;
+  animation: bling-bling 0.5s 0.9s infinite;
 }
 #sparkles path:nth-child(19) {
   -webkit-animation: bling-bling 0.5s 0.95s infinite;
-          animation: bling-bling 0.5s 0.95s infinite;
+  animation: bling-bling 0.5s 0.95s infinite;
 }
 #sparkles path:nth-child(20) {
   -webkit-animation: bling-bling 0.5s 1s infinite;
-          animation: bling-bling 0.5s 1s infinite;
+  animation: bling-bling 0.5s 1s infinite;
 }
 #sparkles path:nth-child(21) {
   -webkit-animation: bling-bling 0.5s 1.05s infinite;
-          animation: bling-bling 0.5s 1.05s infinite;
+  animation: bling-bling 0.5s 1.05s infinite;
 }
 #sparkles path:nth-child(22) {
   -webkit-animation: bling-bling 0.5s 1.1s infinite;
-          animation: bling-bling 0.5s 1.1s infinite;
+  animation: bling-bling 0.5s 1.1s infinite;
 }
 #sparkles path:nth-child(23) {
   -webkit-animation: bling-bling 0.5s 1.15s infinite;
-          animation: bling-bling 0.5s 1.15s infinite;
+  animation: bling-bling 0.5s 1.15s infinite;
 }
 #sparkles path:nth-child(24) {
   -webkit-animation: bling-bling 0.5s 1.2s infinite;
-          animation: bling-bling 0.5s 1.2s infinite;
+  animation: bling-bling 0.5s 1.2s infinite;
 }
 #sparkles path:nth-child(25) {
   -webkit-animation: bling-bling 0.5s 1.25s infinite;
-          animation: bling-bling 0.5s 1.25s infinite;
+  animation: bling-bling 0.5s 1.25s infinite;
 }
 #sparkles path:nth-child(26) {
   -webkit-animation: bling-bling 0.5s 1.3s infinite;
-          animation: bling-bling 0.5s 1.3s infinite;
+  animation: bling-bling 0.5s 1.3s infinite;
 }
 #sparkles path:nth-child(27) {
   -webkit-animation: bling-bling 0.5s 1.35s infinite;
-          animation: bling-bling 0.5s 1.35s infinite;
+  animation: bling-bling 0.5s 1.35s infinite;
 }
 #sparkles path:nth-child(28) {
   -webkit-animation: bling-bling 0.5s 1.4s infinite;
-          animation: bling-bling 0.5s 1.4s infinite;
+  animation: bling-bling 0.5s 1.4s infinite;
 }
 #sparkles path:nth-child(29) {
   -webkit-animation: bling-bling 0.5s 1.45s infinite;
-          animation: bling-bling 0.5s 1.45s infinite;
+  animation: bling-bling 0.5s 1.45s infinite;
 }
 #sparkles path:nth-child(30) {
   -webkit-animation: bling-bling 0.5s 1.5s infinite;
-          animation: bling-bling 0.5s 1.5s infinite;
+  animation: bling-bling 0.5s 1.5s infinite;
 }
 #sparkles path:nth-child(31) {
   -webkit-animation: bling-bling 0.5s 1.55s infinite;
-          animation: bling-bling 0.5s 1.55s infinite;
+  animation: bling-bling 0.5s 1.55s infinite;
 }
 #sparkles path:nth-child(32) {
   -webkit-animation: bling-bling 0.5s 1.6s infinite;
-          animation: bling-bling 0.5s 1.6s infinite;
+  animation: bling-bling 0.5s 1.6s infinite;
 }
 #sparkles path:nth-child(33) {
   -webkit-animation: bling-bling 0.5s 1.65s infinite;
-          animation: bling-bling 0.5s 1.65s infinite;
+  animation: bling-bling 0.5s 1.65s infinite;
 }
 #sparkles path:nth-child(34) {
   -webkit-animation: bling-bling 0.5s 1.7s infinite;
-          animation: bling-bling 0.5s 1.7s infinite;
+  animation: bling-bling 0.5s 1.7s infinite;
 }
 #sparkles path:nth-child(35) {
   -webkit-animation: bling-bling 0.5s 1.75s infinite;
-          animation: bling-bling 0.5s 1.75s infinite;
+  animation: bling-bling 0.5s 1.75s infinite;
 }
 #sparkles path:nth-child(36) {
   -webkit-animation: bling-bling 0.5s 1.8s infinite;
-          animation: bling-bling 0.5s 1.8s infinite;
+  animation: bling-bling 0.5s 1.8s infinite;
 }
 #sparkles path:nth-child(37) {
   -webkit-animation: bling-bling 0.5s 1.85s infinite;
-          animation: bling-bling 0.5s 1.85s infinite;
+  animation: bling-bling 0.5s 1.85s infinite;
 }
 #sparkles path:nth-child(38) {
   -webkit-animation: bling-bling 0.5s 1.9s infinite;
-          animation: bling-bling 0.5s 1.9s infinite;
+  animation: bling-bling 0.5s 1.9s infinite;
 }
 #sparkles path:nth-child(39) {
   -webkit-animation: bling-bling 0.5s 1.95s infinite;
-          animation: bling-bling 0.5s 1.95s infinite;
+  animation: bling-bling 0.5s 1.95s infinite;
 }
 #sparkles path:nth-child(40) {
   -webkit-animation: bling-bling 0.5s 2s infinite;
-          animation: bling-bling 0.5s 2s infinite;
+  animation: bling-bling 0.5s 2s infinite;
 }
 
 @-webkit-keyframes bling-bling {
@@ -271,140 +271,157 @@ path {
   stroke-width: 20px;
 }
 .poofed ~ .message path:nth-child(1) {
-  -webkit-animation: draw 0.2s 0.325s forwards, draw-message 0.2s 0.325s forwards;
-          animation: draw 0.2s 0.325s forwards, draw-message 0.2s 0.325s forwards;
+  -webkit-animation: draw 0.2s 0.325s forwards,
+    draw-message 0.2s 0.325s forwards;
+  animation: draw 0.2s 0.325s forwards, draw-message 0.2s 0.325s forwards;
 }
 .poofed ~ .message path:nth-child(2) {
   -webkit-animation: draw 0.2s 0.4s forwards, draw-message 0.2s 0.4s forwards;
-          animation: draw 0.2s 0.4s forwards, draw-message 0.2s 0.4s forwards;
+  animation: draw 0.2s 0.4s forwards, draw-message 0.2s 0.4s forwards;
 }
 .poofed ~ .message path:nth-child(3) {
-  -webkit-animation: draw 0.2s 0.475s forwards, draw-message 0.2s 0.475s forwards;
-          animation: draw 0.2s 0.475s forwards, draw-message 0.2s 0.475s forwards;
+  -webkit-animation: draw 0.2s 0.475s forwards,
+    draw-message 0.2s 0.475s forwards;
+  animation: draw 0.2s 0.475s forwards, draw-message 0.2s 0.475s forwards;
 }
 .poofed ~ .message path:nth-child(4) {
   -webkit-animation: draw 0.2s 0.55s forwards, draw-message 0.2s 0.55s forwards;
-          animation: draw 0.2s 0.55s forwards, draw-message 0.2s 0.55s forwards;
+  animation: draw 0.2s 0.55s forwards, draw-message 0.2s 0.55s forwards;
 }
 .poofed ~ .message path:nth-child(5) {
-  -webkit-animation: draw 0.2s 0.625s forwards, draw-message 0.2s 0.625s forwards;
-          animation: draw 0.2s 0.625s forwards, draw-message 0.2s 0.625s forwards;
+  -webkit-animation: draw 0.2s 0.625s forwards,
+    draw-message 0.2s 0.625s forwards;
+  animation: draw 0.2s 0.625s forwards, draw-message 0.2s 0.625s forwards;
 }
 .poofed ~ .message path:nth-child(6) {
   -webkit-animation: draw 0.2s 0.7s forwards, draw-message 0.2s 0.7s forwards;
-          animation: draw 0.2s 0.7s forwards, draw-message 0.2s 0.7s forwards;
+  animation: draw 0.2s 0.7s forwards, draw-message 0.2s 0.7s forwards;
 }
 .poofed ~ .message path:nth-child(7) {
-  -webkit-animation: draw 0.2s 0.775s forwards, draw-message 0.2s 0.775s forwards;
-          animation: draw 0.2s 0.775s forwards, draw-message 0.2s 0.775s forwards;
+  -webkit-animation: draw 0.2s 0.775s forwards,
+    draw-message 0.2s 0.775s forwards;
+  animation: draw 0.2s 0.775s forwards, draw-message 0.2s 0.775s forwards;
 }
 .poofed ~ .message path:nth-child(8) {
   -webkit-animation: draw 0.2s 0.85s forwards, draw-message 0.2s 0.85s forwards;
-          animation: draw 0.2s 0.85s forwards, draw-message 0.2s 0.85s forwards;
+  animation: draw 0.2s 0.85s forwards, draw-message 0.2s 0.85s forwards;
 }
 .poofed ~ .message path:nth-child(9) {
-  -webkit-animation: draw 0.2s 0.925s forwards, draw-message 0.2s 0.925s forwards;
-          animation: draw 0.2s 0.925s forwards, draw-message 0.2s 0.925s forwards;
+  -webkit-animation: draw 0.2s 0.925s forwards,
+    draw-message 0.2s 0.925s forwards;
+  animation: draw 0.2s 0.925s forwards, draw-message 0.2s 0.925s forwards;
 }
 .poofed ~ .message path:nth-child(10) {
   -webkit-animation: draw 0.2s 1s forwards, draw-message 0.2s 1s forwards;
-          animation: draw 0.2s 1s forwards, draw-message 0.2s 1s forwards;
+  animation: draw 0.2s 1s forwards, draw-message 0.2s 1s forwards;
 }
 .poofed ~ .message path:nth-child(11) {
-  -webkit-animation: draw 0.2s 1.075s forwards, draw-message 0.2s 1.075s forwards;
-          animation: draw 0.2s 1.075s forwards, draw-message 0.2s 1.075s forwards;
+  -webkit-animation: draw 0.2s 1.075s forwards,
+    draw-message 0.2s 1.075s forwards;
+  animation: draw 0.2s 1.075s forwards, draw-message 0.2s 1.075s forwards;
 }
 .poofed ~ .message path:nth-child(12) {
   -webkit-animation: draw 0.2s 1.15s forwards, draw-message 0.2s 1.15s forwards;
-          animation: draw 0.2s 1.15s forwards, draw-message 0.2s 1.15s forwards;
+  animation: draw 0.2s 1.15s forwards, draw-message 0.2s 1.15s forwards;
 }
 .poofed ~ .message path:nth-child(13) {
-  -webkit-animation: draw 0.2s 1.225s forwards, draw-message 0.2s 1.225s forwards;
-          animation: draw 0.2s 1.225s forwards, draw-message 0.2s 1.225s forwards;
+  -webkit-animation: draw 0.2s 1.225s forwards,
+    draw-message 0.2s 1.225s forwards;
+  animation: draw 0.2s 1.225s forwards, draw-message 0.2s 1.225s forwards;
 }
 .poofed ~ .message path:nth-child(14) {
   -webkit-animation: draw 0.2s 1.3s forwards, draw-message 0.2s 1.3s forwards;
-          animation: draw 0.2s 1.3s forwards, draw-message 0.2s 1.3s forwards;
+  animation: draw 0.2s 1.3s forwards, draw-message 0.2s 1.3s forwards;
 }
 .poofed ~ .message path:nth-child(15) {
-  -webkit-animation: draw 0.2s 1.375s forwards, draw-message 0.2s 1.375s forwards;
-          animation: draw 0.2s 1.375s forwards, draw-message 0.2s 1.375s forwards;
+  -webkit-animation: draw 0.2s 1.375s forwards,
+    draw-message 0.2s 1.375s forwards;
+  animation: draw 0.2s 1.375s forwards, draw-message 0.2s 1.375s forwards;
 }
 .poofed ~ .message path:nth-child(16) {
   -webkit-animation: draw 0.2s 1.45s forwards, draw-message 0.2s 1.45s forwards;
-          animation: draw 0.2s 1.45s forwards, draw-message 0.2s 1.45s forwards;
+  animation: draw 0.2s 1.45s forwards, draw-message 0.2s 1.45s forwards;
 }
 .poofed ~ .message path:nth-child(17) {
-  -webkit-animation: draw 0.2s 1.525s forwards, draw-message 0.2s 1.525s forwards;
-          animation: draw 0.2s 1.525s forwards, draw-message 0.2s 1.525s forwards;
+  -webkit-animation: draw 0.2s 1.525s forwards,
+    draw-message 0.2s 1.525s forwards;
+  animation: draw 0.2s 1.525s forwards, draw-message 0.2s 1.525s forwards;
 }
 .poofed ~ .message path:nth-child(18) {
   -webkit-animation: draw 0.2s 1.6s forwards, draw-message 0.2s 1.6s forwards;
-          animation: draw 0.2s 1.6s forwards, draw-message 0.2s 1.6s forwards;
+  animation: draw 0.2s 1.6s forwards, draw-message 0.2s 1.6s forwards;
 }
 .poofed ~ .message path:nth-child(19) {
-  -webkit-animation: draw 0.2s 1.675s forwards, draw-message 0.2s 1.675s forwards;
-          animation: draw 0.2s 1.675s forwards, draw-message 0.2s 1.675s forwards;
+  -webkit-animation: draw 0.2s 1.675s forwards,
+    draw-message 0.2s 1.675s forwards;
+  animation: draw 0.2s 1.675s forwards, draw-message 0.2s 1.675s forwards;
 }
 .poofed ~ .message path:nth-child(20) {
   -webkit-animation: draw 0.2s 1.75s forwards, draw-message 0.2s 1.75s forwards;
-          animation: draw 0.2s 1.75s forwards, draw-message 0.2s 1.75s forwards;
+  animation: draw 0.2s 1.75s forwards, draw-message 0.2s 1.75s forwards;
 }
 .poofed ~ .message path:nth-child(21) {
-  -webkit-animation: draw 0.2s 1.825s forwards, draw-message 0.2s 1.825s forwards;
-          animation: draw 0.2s 1.825s forwards, draw-message 0.2s 1.825s forwards;
+  -webkit-animation: draw 0.2s 1.825s forwards,
+    draw-message 0.2s 1.825s forwards;
+  animation: draw 0.2s 1.825s forwards, draw-message 0.2s 1.825s forwards;
 }
 .poofed ~ .message path:nth-child(22) {
   -webkit-animation: draw 0.2s 1.9s forwards, draw-message 0.2s 1.9s forwards;
-          animation: draw 0.2s 1.9s forwards, draw-message 0.2s 1.9s forwards;
+  animation: draw 0.2s 1.9s forwards, draw-message 0.2s 1.9s forwards;
 }
 .poofed ~ .message path:nth-child(23) {
-  -webkit-animation: draw 0.2s 1.975s forwards, draw-message 0.2s 1.975s forwards;
-          animation: draw 0.2s 1.975s forwards, draw-message 0.2s 1.975s forwards;
+  -webkit-animation: draw 0.2s 1.975s forwards,
+    draw-message 0.2s 1.975s forwards;
+  animation: draw 0.2s 1.975s forwards, draw-message 0.2s 1.975s forwards;
 }
 .poofed ~ .message path:nth-child(24) {
   -webkit-animation: draw 0.2s 2.05s forwards, draw-message 0.2s 2.05s forwards;
-          animation: draw 0.2s 2.05s forwards, draw-message 0.2s 2.05s forwards;
+  animation: draw 0.2s 2.05s forwards, draw-message 0.2s 2.05s forwards;
 }
 .poofed ~ .message path:nth-child(25) {
-  -webkit-animation: draw 0.2s 2.125s forwards, draw-message 0.2s 2.125s forwards;
-          animation: draw 0.2s 2.125s forwards, draw-message 0.2s 2.125s forwards;
+  -webkit-animation: draw 0.2s 2.125s forwards,
+    draw-message 0.2s 2.125s forwards;
+  animation: draw 0.2s 2.125s forwards, draw-message 0.2s 2.125s forwards;
 }
 .poofed ~ .message path:nth-child(26) {
   -webkit-animation: draw 0.2s 2.2s forwards, draw-message 0.2s 2.2s forwards;
-          animation: draw 0.2s 2.2s forwards, draw-message 0.2s 2.2s forwards;
+  animation: draw 0.2s 2.2s forwards, draw-message 0.2s 2.2s forwards;
 }
 .poofed ~ .message path:nth-child(27) {
-  -webkit-animation: draw 0.2s 2.275s forwards, draw-message 0.2s 2.275s forwards;
-          animation: draw 0.2s 2.275s forwards, draw-message 0.2s 2.275s forwards;
+  -webkit-animation: draw 0.2s 2.275s forwards,
+    draw-message 0.2s 2.275s forwards;
+  animation: draw 0.2s 2.275s forwards, draw-message 0.2s 2.275s forwards;
 }
 .poofed ~ .message path:nth-child(28) {
   -webkit-animation: draw 0.2s 2.35s forwards, draw-message 0.2s 2.35s forwards;
-          animation: draw 0.2s 2.35s forwards, draw-message 0.2s 2.35s forwards;
+  animation: draw 0.2s 2.35s forwards, draw-message 0.2s 2.35s forwards;
 }
 .poofed ~ .message path:nth-child(29) {
-  -webkit-animation: draw 0.2s 2.425s forwards, draw-message 0.2s 2.425s forwards;
-          animation: draw 0.2s 2.425s forwards, draw-message 0.2s 2.425s forwards;
+  -webkit-animation: draw 0.2s 2.425s forwards,
+    draw-message 0.2s 2.425s forwards;
+  animation: draw 0.2s 2.425s forwards, draw-message 0.2s 2.425s forwards;
 }
 .poofed ~ .message path:nth-child(30) {
   -webkit-animation: draw 0.2s 2.5s forwards, draw-message 0.2s 2.5s forwards;
-          animation: draw 0.2s 2.5s forwards, draw-message 0.2s 2.5s forwards;
+  animation: draw 0.2s 2.5s forwards, draw-message 0.2s 2.5s forwards;
 }
 .poofed ~ .message path:nth-child(31) {
-  -webkit-animation: draw 0.2s 2.575s forwards, draw-message 0.2s 2.575s forwards;
-          animation: draw 0.2s 2.575s forwards, draw-message 0.2s 2.575s forwards;
+  -webkit-animation: draw 0.2s 2.575s forwards,
+    draw-message 0.2s 2.575s forwards;
+  animation: draw 0.2s 2.575s forwards, draw-message 0.2s 2.575s forwards;
 }
 .poofed ~ .message path:nth-child(32) {
   -webkit-animation: draw 0.2s 2.65s forwards, draw-message 0.2s 2.65s forwards;
-          animation: draw 0.2s 2.65s forwards, draw-message 0.2s 2.65s forwards;
+  animation: draw 0.2s 2.65s forwards, draw-message 0.2s 2.65s forwards;
 }
 .poofed ~ .message path:nth-child(33) {
-  -webkit-animation: draw 0.2s 2.725s forwards, draw-message 0.2s 2.725s forwards;
-          animation: draw 0.2s 2.725s forwards, draw-message 0.2s 2.725s forwards;
+  -webkit-animation: draw 0.2s 2.725s forwards,
+    draw-message 0.2s 2.725s forwards;
+  animation: draw 0.2s 2.725s forwards, draw-message 0.2s 2.725s forwards;
 }
 .poofed ~ .message path:nth-child(34) {
   -webkit-animation: draw 0.2s 2.8s forwards, draw-message 0.2s 2.8s forwards;
-          animation: draw 0.2s 2.8s forwards, draw-message 0.2s 2.8s forwards;
+  animation: draw 0.2s 2.8s forwards, draw-message 0.2s 2.8s forwards;
 }
 
 @-webkit-keyframes draw {
@@ -520,22 +537,22 @@ path {
 }
 .poofed ~ .clouds g:nth-child(1) {
   -webkit-animation: sway 2s 0.225s infinite;
-          animation: sway 2s 0.225s infinite;
+  animation: sway 2s 0.225s infinite;
   transition: opacity 2s 0.075s;
 }
 .poofed ~ .clouds g:nth-child(2) {
   -webkit-animation: sway 2s 0.45s infinite;
-          animation: sway 2s 0.45s infinite;
+  animation: sway 2s 0.45s infinite;
   transition: opacity 2s 0.15s;
 }
 .poofed ~ .clouds g:nth-child(3) {
   -webkit-animation: sway 2s 0.675s infinite;
-          animation: sway 2s 0.675s infinite;
+  animation: sway 2s 0.675s infinite;
   transition: opacity 2s 0.225s;
 }
 .poofed ~ .clouds g:nth-child(4) {
   -webkit-animation: sway 2s 0.9s infinite;
-          animation: sway 2s 0.9s infinite;
+  animation: sway 2s 0.9s infinite;
   transition: opacity 2s 0.3s;
 }
 
@@ -559,7 +576,7 @@ path {
 .cloud-lines path {
   opacity: 0;
   fill: transparent;
-  stroke: #747A9B;
+  stroke: #747a9b;
   transform: scale(0.925);
 }
 .poofed ~ .cloud-lines path {
@@ -567,152 +584,152 @@ path {
 }
 .poofed ~ .cloud-lines path:nth-child(1) {
   -webkit-animation: billow 2s 1.525s infinite ease, draw 0.15s 1.515s forwards;
-          animation: billow 2s 1.525s infinite ease, draw 0.15s 1.515s forwards;
+  animation: billow 2s 1.525s infinite ease, draw 0.15s 1.515s forwards;
   transition: opacity 0.5s 1.65s;
 }
 .poofed ~ .cloud-lines path:nth-child(2) {
   -webkit-animation: billow 2s 1.55s infinite ease, draw 0.15s 1.53s forwards;
-          animation: billow 2s 1.55s infinite ease, draw 0.15s 1.53s forwards;
+  animation: billow 2s 1.55s infinite ease, draw 0.15s 1.53s forwards;
   transition: opacity 0.5s 1.8s;
 }
 .poofed ~ .cloud-lines path:nth-child(3) {
   -webkit-animation: billow 2s 1.575s infinite ease, draw 0.15s 1.545s forwards;
-          animation: billow 2s 1.575s infinite ease, draw 0.15s 1.545s forwards;
+  animation: billow 2s 1.575s infinite ease, draw 0.15s 1.545s forwards;
   transition: opacity 0.5s 1.95s;
 }
 .poofed ~ .cloud-lines path:nth-child(4) {
   -webkit-animation: billow 2s 1.6s infinite ease, draw 0.15s 1.56s forwards;
-          animation: billow 2s 1.6s infinite ease, draw 0.15s 1.56s forwards;
+  animation: billow 2s 1.6s infinite ease, draw 0.15s 1.56s forwards;
   transition: opacity 0.5s 2.1s;
 }
 .poofed ~ .cloud-lines path:nth-child(5) {
   -webkit-animation: billow 2s 1.625s infinite ease, draw 0.15s 1.575s forwards;
-          animation: billow 2s 1.625s infinite ease, draw 0.15s 1.575s forwards;
+  animation: billow 2s 1.625s infinite ease, draw 0.15s 1.575s forwards;
   transition: opacity 0.5s 2.25s;
 }
 .poofed ~ .cloud-lines path:nth-child(6) {
   -webkit-animation: billow 2s 1.65s infinite ease, draw 0.15s 1.59s forwards;
-          animation: billow 2s 1.65s infinite ease, draw 0.15s 1.59s forwards;
+  animation: billow 2s 1.65s infinite ease, draw 0.15s 1.59s forwards;
   transition: opacity 0.5s 2.4s;
 }
 .poofed ~ .cloud-lines path:nth-child(7) {
   -webkit-animation: billow 2s 1.675s infinite ease, draw 0.15s 1.605s forwards;
-          animation: billow 2s 1.675s infinite ease, draw 0.15s 1.605s forwards;
+  animation: billow 2s 1.675s infinite ease, draw 0.15s 1.605s forwards;
   transition: opacity 0.5s 2.55s;
 }
 .poofed ~ .cloud-lines path:nth-child(8) {
   -webkit-animation: billow 2s 1.7s infinite ease, draw 0.15s 1.62s forwards;
-          animation: billow 2s 1.7s infinite ease, draw 0.15s 1.62s forwards;
+  animation: billow 2s 1.7s infinite ease, draw 0.15s 1.62s forwards;
   transition: opacity 0.5s 2.7s;
 }
 .poofed ~ .cloud-lines path:nth-child(9) {
   -webkit-animation: billow 2s 1.725s infinite ease, draw 0.15s 1.635s forwards;
-          animation: billow 2s 1.725s infinite ease, draw 0.15s 1.635s forwards;
+  animation: billow 2s 1.725s infinite ease, draw 0.15s 1.635s forwards;
   transition: opacity 0.5s 2.85s;
 }
 .poofed ~ .cloud-lines path:nth-child(10) {
   -webkit-animation: billow 2s 1.75s infinite ease, draw 0.15s 1.65s forwards;
-          animation: billow 2s 1.75s infinite ease, draw 0.15s 1.65s forwards;
+  animation: billow 2s 1.75s infinite ease, draw 0.15s 1.65s forwards;
   transition: opacity 0.5s 3s;
 }
 .poofed ~ .cloud-lines path:nth-child(11) {
   -webkit-animation: billow 2s 1.775s infinite ease, draw 0.15s 1.665s forwards;
-          animation: billow 2s 1.775s infinite ease, draw 0.15s 1.665s forwards;
+  animation: billow 2s 1.775s infinite ease, draw 0.15s 1.665s forwards;
   transition: opacity 0.5s 3.15s;
 }
 .poofed ~ .cloud-lines path:nth-child(12) {
   -webkit-animation: billow 2s 1.8s infinite ease, draw 0.15s 1.68s forwards;
-          animation: billow 2s 1.8s infinite ease, draw 0.15s 1.68s forwards;
+  animation: billow 2s 1.8s infinite ease, draw 0.15s 1.68s forwards;
   transition: opacity 0.5s 3.3s;
 }
 .poofed ~ .cloud-lines path:nth-child(13) {
   -webkit-animation: billow 2s 1.825s infinite ease, draw 0.15s 1.695s forwards;
-          animation: billow 2s 1.825s infinite ease, draw 0.15s 1.695s forwards;
+  animation: billow 2s 1.825s infinite ease, draw 0.15s 1.695s forwards;
   transition: opacity 0.5s 3.45s;
 }
 .poofed ~ .cloud-lines path:nth-child(14) {
   -webkit-animation: billow 2s 1.85s infinite ease, draw 0.15s 1.71s forwards;
-          animation: billow 2s 1.85s infinite ease, draw 0.15s 1.71s forwards;
+  animation: billow 2s 1.85s infinite ease, draw 0.15s 1.71s forwards;
   transition: opacity 0.5s 3.6s;
 }
 .poofed ~ .cloud-lines path:nth-child(15) {
   -webkit-animation: billow 2s 1.875s infinite ease, draw 0.15s 1.725s forwards;
-          animation: billow 2s 1.875s infinite ease, draw 0.15s 1.725s forwards;
+  animation: billow 2s 1.875s infinite ease, draw 0.15s 1.725s forwards;
   transition: opacity 0.5s 3.75s;
 }
 .poofed ~ .cloud-lines path:nth-child(16) {
   -webkit-animation: billow 2s 1.9s infinite ease, draw 0.15s 1.74s forwards;
-          animation: billow 2s 1.9s infinite ease, draw 0.15s 1.74s forwards;
+  animation: billow 2s 1.9s infinite ease, draw 0.15s 1.74s forwards;
   transition: opacity 0.5s 3.9s;
 }
 .poofed ~ .cloud-lines path:nth-child(17) {
   -webkit-animation: billow 2s 1.925s infinite ease, draw 0.15s 1.755s forwards;
-          animation: billow 2s 1.925s infinite ease, draw 0.15s 1.755s forwards;
+  animation: billow 2s 1.925s infinite ease, draw 0.15s 1.755s forwards;
   transition: opacity 0.5s 4.05s;
 }
 .poofed ~ .cloud-lines path:nth-child(18) {
   -webkit-animation: billow 2s 1.95s infinite ease, draw 0.15s 1.77s forwards;
-          animation: billow 2s 1.95s infinite ease, draw 0.15s 1.77s forwards;
+  animation: billow 2s 1.95s infinite ease, draw 0.15s 1.77s forwards;
   transition: opacity 0.5s 4.2s;
 }
 .poofed ~ .cloud-lines path:nth-child(19) {
   -webkit-animation: billow 2s 1.975s infinite ease, draw 0.15s 1.785s forwards;
-          animation: billow 2s 1.975s infinite ease, draw 0.15s 1.785s forwards;
+  animation: billow 2s 1.975s infinite ease, draw 0.15s 1.785s forwards;
   transition: opacity 0.5s 4.35s;
 }
 .poofed ~ .cloud-lines path:nth-child(20) {
   -webkit-animation: billow 2s 2s infinite ease, draw 0.15s 1.8s forwards;
-          animation: billow 2s 2s infinite ease, draw 0.15s 1.8s forwards;
+  animation: billow 2s 2s infinite ease, draw 0.15s 1.8s forwards;
   transition: opacity 0.5s 4.5s;
 }
 .poofed ~ .cloud-lines path:nth-child(21) {
   -webkit-animation: billow 2s 2.025s infinite ease, draw 0.15s 1.815s forwards;
-          animation: billow 2s 2.025s infinite ease, draw 0.15s 1.815s forwards;
+  animation: billow 2s 2.025s infinite ease, draw 0.15s 1.815s forwards;
   transition: opacity 0.5s 4.65s;
 }
 .poofed ~ .cloud-lines path:nth-child(22) {
   -webkit-animation: billow 2s 2.05s infinite ease, draw 0.15s 1.83s forwards;
-          animation: billow 2s 2.05s infinite ease, draw 0.15s 1.83s forwards;
+  animation: billow 2s 2.05s infinite ease, draw 0.15s 1.83s forwards;
   transition: opacity 0.5s 4.8s;
 }
 .poofed ~ .cloud-lines path:nth-child(23) {
   -webkit-animation: billow 2s 2.075s infinite ease, draw 0.15s 1.845s forwards;
-          animation: billow 2s 2.075s infinite ease, draw 0.15s 1.845s forwards;
+  animation: billow 2s 2.075s infinite ease, draw 0.15s 1.845s forwards;
   transition: opacity 0.5s 4.95s;
 }
 .poofed ~ .cloud-lines path:nth-child(24) {
   -webkit-animation: billow 2s 2.1s infinite ease, draw 0.15s 1.86s forwards;
-          animation: billow 2s 2.1s infinite ease, draw 0.15s 1.86s forwards;
+  animation: billow 2s 2.1s infinite ease, draw 0.15s 1.86s forwards;
   transition: opacity 0.5s 5.1s;
 }
 .poofed ~ .cloud-lines path:nth-child(25) {
   -webkit-animation: billow 2s 2.125s infinite ease, draw 0.15s 1.875s forwards;
-          animation: billow 2s 2.125s infinite ease, draw 0.15s 1.875s forwards;
+  animation: billow 2s 2.125s infinite ease, draw 0.15s 1.875s forwards;
   transition: opacity 0.5s 5.25s;
 }
 .poofed ~ .cloud-lines path:nth-child(26) {
   -webkit-animation: billow 2s 2.15s infinite ease, draw 0.15s 1.89s forwards;
-          animation: billow 2s 2.15s infinite ease, draw 0.15s 1.89s forwards;
+  animation: billow 2s 2.15s infinite ease, draw 0.15s 1.89s forwards;
   transition: opacity 0.5s 5.4s;
 }
 .poofed ~ .cloud-lines path:nth-child(27) {
   -webkit-animation: billow 2s 2.175s infinite ease, draw 0.15s 1.905s forwards;
-          animation: billow 2s 2.175s infinite ease, draw 0.15s 1.905s forwards;
+  animation: billow 2s 2.175s infinite ease, draw 0.15s 1.905s forwards;
   transition: opacity 0.5s 5.55s;
 }
 .poofed ~ .cloud-lines path:nth-child(28) {
   -webkit-animation: billow 2s 2.2s infinite ease, draw 0.15s 1.92s forwards;
-          animation: billow 2s 2.2s infinite ease, draw 0.15s 1.92s forwards;
+  animation: billow 2s 2.2s infinite ease, draw 0.15s 1.92s forwards;
   transition: opacity 0.5s 5.7s;
 }
 .poofed ~ .cloud-lines path:nth-child(29) {
   -webkit-animation: billow 2s 2.225s infinite ease, draw 0.15s 1.935s forwards;
-          animation: billow 2s 2.225s infinite ease, draw 0.15s 1.935s forwards;
+  animation: billow 2s 2.225s infinite ease, draw 0.15s 1.935s forwards;
   transition: opacity 0.5s 5.85s;
 }
 .poofed ~ .cloud-lines path:nth-child(30) {
   -webkit-animation: billow 2s 2.25s infinite ease, draw 0.15s 1.95s forwards;
-          animation: billow 2s 2.25s infinite ease, draw 0.15s 1.95s forwards;
+  animation: billow 2s 2.25s infinite ease, draw 0.15s 1.95s forwards;
   transition: opacity 0.5s 6s;
 }
 
@@ -746,92 +763,92 @@ path {
 }
 .action:hover span:nth-of-type(1) {
   -webkit-animation: bubble 0.75s 0.76s infinite;
-          animation: bubble 0.75s 0.76s infinite;
+  animation: bubble 0.75s 0.76s infinite;
 }
 
 .action:hover span:nth-of-type(2) {
   -webkit-animation: bubble 0.75s 0.43s infinite;
-          animation: bubble 0.75s 0.43s infinite;
+  animation: bubble 0.75s 0.43s infinite;
 }
 
 .action:hover span:nth-of-type(3) {
   -webkit-animation: bubble 0.75s 0.95s infinite;
-          animation: bubble 0.75s 0.95s infinite;
+  animation: bubble 0.75s 0.95s infinite;
 }
 
 .action:hover span:nth-of-type(4) {
   -webkit-animation: bubble 0.75s 0.27s infinite;
-          animation: bubble 0.75s 0.27s infinite;
+  animation: bubble 0.75s 0.27s infinite;
 }
 
 .action:hover span:nth-of-type(5) {
   -webkit-animation: bubble 0.75s 1s infinite;
-          animation: bubble 0.75s 1s infinite;
+  animation: bubble 0.75s 1s infinite;
 }
 
 .action:hover span:nth-of-type(6) {
   -webkit-animation: bubble 0.75s 0.48s infinite;
-          animation: bubble 0.75s 0.48s infinite;
+  animation: bubble 0.75s 0.48s infinite;
 }
 
 .action:hover span:nth-of-type(7) {
   -webkit-animation: bubble 0.75s 0.38s infinite;
-          animation: bubble 0.75s 0.38s infinite;
+  animation: bubble 0.75s 0.38s infinite;
 }
 
 .action:hover span:nth-of-type(8) {
   -webkit-animation: bubble 0.75s 0.22s infinite;
-          animation: bubble 0.75s 0.22s infinite;
+  animation: bubble 0.75s 0.22s infinite;
 }
 
 .action:hover span:nth-of-type(9) {
   -webkit-animation: bubble 0.75s 0.83s infinite;
-          animation: bubble 0.75s 0.83s infinite;
+  animation: bubble 0.75s 0.83s infinite;
 }
 
 .action:hover span:nth-of-type(10) {
   -webkit-animation: bubble 0.75s 0.93s infinite;
-          animation: bubble 0.75s 0.93s infinite;
+  animation: bubble 0.75s 0.93s infinite;
 }
 
 .action:hover span:nth-of-type(11) {
   -webkit-animation: bubble 0.75s 0.23s infinite;
-          animation: bubble 0.75s 0.23s infinite;
+  animation: bubble 0.75s 0.23s infinite;
 }
 
 .action:hover span:nth-of-type(12) {
   -webkit-animation: bubble 0.75s 0.6s infinite;
-          animation: bubble 0.75s 0.6s infinite;
+  animation: bubble 0.75s 0.6s infinite;
 }
 
 .action:hover span:nth-of-type(13) {
   -webkit-animation: bubble 0.75s 0.35s infinite;
-          animation: bubble 0.75s 0.35s infinite;
+  animation: bubble 0.75s 0.35s infinite;
 }
 
 .action:hover span:nth-of-type(14) {
   -webkit-animation: bubble 0.75s 0.49s infinite;
-          animation: bubble 0.75s 0.49s infinite;
+  animation: bubble 0.75s 0.49s infinite;
 }
 
 .action:hover span:nth-of-type(15) {
   -webkit-animation: bubble 0.75s 0.75s infinite;
-          animation: bubble 0.75s 0.75s infinite;
+  animation: bubble 0.75s 0.75s infinite;
 }
 
 .action:hover span:nth-of-type(16) {
   -webkit-animation: bubble 0.75s 0.65s infinite;
-          animation: bubble 0.75s 0.65s infinite;
+  animation: bubble 0.75s 0.65s infinite;
 }
 
 .action:hover span:nth-of-type(17) {
   -webkit-animation: bubble 0.75s 0.67s infinite;
-          animation: bubble 0.75s 0.67s infinite;
+  animation: bubble 0.75s 0.67s infinite;
 }
 
 .action:hover span:nth-of-type(18) {
   -webkit-animation: bubble 0.75s 0.57s infinite;
-          animation: bubble 0.75s 0.57s infinite;
+  animation: bubble 0.75s 0.57s infinite;
 }
 
 .tickle {
@@ -875,7 +892,7 @@ html {
   overflow: hidden;
   height: 100%;
   font-family: "Sacramento";
-  background: #C2D9D9;
+  background: #c2d9d9;
   color: #fff;
 }
 
